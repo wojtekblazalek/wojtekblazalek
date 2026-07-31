@@ -20,6 +20,6 @@ I work at the intersection of email infrastructure, product strategy, security, 
 
 ## Find me
 
-- [blazalek.com](https://blazalek.com) — personal site
+- [blazalek.com](https://blazalek.com) — Email Deliverability Expert Services
 - [wojtekblazalek.github.io](https://wojtekblazalek.github.io/) — portfolio and profile site
 - [LinkedIn](https://www.linkedin.com/in/blazalek)
