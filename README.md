@@ -1,16 +1,25 @@
-## Hi there 👋
+# Wojtek Błażalek
 
-<!--
-**wojtekblazalek/wojtekblazalek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Product Leader and Email Deliverability Expert with 15+ years of experience building SaaS products that improve adoption, revenue, retention, and reliable email delivery.
 
-Here are some ideas to get you started:
+I work at the intersection of email infrastructure, product strategy, security, and AI-enabled systems—turning complex technical problems into products and roadmaps that ship.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Focus areas
+
+- Email infrastructure & deliverability: SPF, DKIM, DMARC, reputation, bounce handling, and delivery reliability
+- Product strategy & SaaS growth: product discovery, adoption, retention, and integrations
+- AI & security: LLM-enabled products, phishing detection, abuse prevention, and fraud reduction
+
+## Featured project: Open SMTP Error Dataset
+
+**Open SMTP Error Dataset** is a public, machine-readable reference of 92 SMTP status outcomes. It helps developers and email teams classify bounces, understand delivery failures, and make safer retry or suppression decisions.
+
+- [Explore the dataset on Hugging Face](https://huggingface.co/datasets/blazalek/open-smtp-error-dataset)
+- [Cite the Zenodo record](https://doi.org/10.5281/zenodo.21717985)
+- [Browse the interactive SMTP error catalogue](https://blazalek.com/en/email-errors)
+
+## Find me
+
+- [blazalek.com](https://blazalek.com) — personal site
+- [wojtekblazalek.github.io](https://wojtekblazalek.github.io/) — portfolio and profile site
+- [LinkedIn](https://www.linkedin.com/in/blazalek)
